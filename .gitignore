@@ -1,0 +1,6 @@
+*.smc
+*.sfc
+*.spc
+*.pyc
+*.dll
+imgui.ini
